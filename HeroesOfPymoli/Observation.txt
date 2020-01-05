@@ -1,0 +1,6 @@
+Trends 
+
+1) Our highesr demographics range is  between 20 -24 (44.79%) and the lowest range is 40+ (2.08%) 
+2) 20-24 have the highest purchase count of 365 with a price tag of $3.05 per item
+3) We have unique total players of 576 by eliminating duplicate purchases .
+
